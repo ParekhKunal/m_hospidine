@@ -10,11 +10,18 @@ Language: Java
 Packaging: Jar
 
 # Dependencies
-Spring Web
-Spring Data JPA
-MySQL Driver
-Spring Security
-jjwt-API
-jjwt-impl
-jjwt-jackson
+Spring Web,
+
+Spring Data JPA,
+
+MySQL Driver,
+
+Spring Security,
+
+jjwt-API,
+
+jjwt-impl,
+
+jjwt-jackson,
+
 SpringDoc OpenAPI Starter WebMVC UI
